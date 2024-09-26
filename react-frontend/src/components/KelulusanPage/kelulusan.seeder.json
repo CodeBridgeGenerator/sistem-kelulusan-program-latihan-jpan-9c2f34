@@ -1,0 +1,14 @@
+[
+    {
+        "latihan": "Object ID of Tajuk inside Latihan",
+        "pelulus": "ObjectID to user table",
+        "status": true,
+        "komen": "string"
+    },
+    {
+        "latihan": "Object ID of Tajuk inside Latihan",
+        "pelulus": "ObjectID to user table",
+        "status": false,
+        "komen": "string"
+    }
+]

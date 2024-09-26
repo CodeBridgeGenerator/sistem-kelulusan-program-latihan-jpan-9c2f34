@@ -1,0 +1,7 @@
+[
+    {
+        "pengguna": "ObjectID to user table",
+        "latihan": "ObjectID to Tajuk in Latihan",
+        "status": "String"
+    }
+]
